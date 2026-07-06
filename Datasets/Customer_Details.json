@@ -1,0 +1,32 @@
+[
+  {
+    "CustomerID": "C001",
+    "Segment": "Corporate",
+    "AgeGroup": "26-35",
+    "LoyaltyPoints": 1200
+  },
+  {
+    "CustomerID": "C002",
+    "Segment": "Consumer",
+    "AgeGroup": "36-45",
+    "LoyaltyPoints": 450
+  },
+  {
+    "CustomerID": "C003",
+    "Segment": "Home Office",
+    "AgeGroup": "18-25",
+    "LoyaltyPoints": 300
+  },
+  {
+    "CustomerID": "C004",
+    "Segment": "Corporate",
+    "AgeGroup": "46-55",
+    "LoyaltyPoints": 1800
+  },
+  {
+    "CustomerID": "C005",
+    "Segment": "Consumer",
+    "AgeGroup": "26-35",
+    "LoyaltyPoints": 700
+  }
+]

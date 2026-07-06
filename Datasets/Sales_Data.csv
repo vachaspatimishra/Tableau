@@ -1,0 +1,7 @@
+OrderID,CustomerID,Customer,Region,Sales
+1001,C001,Alice,North,1200
+1002,C002,Bob,South,850
+1003,C003,Charlie,East,640
+1004,C001,Alice,North,450
+1005,C004,David,West,1500
+1006,C005,Eva,South,980
